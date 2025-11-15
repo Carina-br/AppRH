@@ -1,10 +1,10 @@
-#📌 Sistema de RH
+# Sistema de RH
 
 Um sistema simples de gerenciamento de vagas e candidatos, permitindo adicionar, editar e excluir informações diretamente no banco de dados.
 
-🚀 Funcionalidades
+## Funcionalidades:
 
-🔹 Gerenciamento de Vagas
+### Gerenciamento de Vagas
 
 Adicionar novas vagas de emprego
 
@@ -16,14 +16,11 @@ Listar todas as vagas disponíveis
 
 Consultar vaga por ID
 
-🔹 Cadastro de Candidatos
+### Cadastro de Candidatos
 
 Registrar novos candidatos
-
-Atualizar dados cadastrais
 
 Excluir candidatos
 
 Listar candidatos cadastrados
 
-Associar candidatos às vagas
